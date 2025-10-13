@@ -1,2 +1,1 @@
-# Fourier-Transform-Denoising
-A Jupyter Notebook project for image denoising using Fourier Transform and interactive sliders
+# Fourier Transform Denoising Project v2\nOpen the notebook in Jupyter and run the cells.
